@@ -1,0 +1,17 @@
+.pixabay-logo {
+  width: 160px;
+}
+
+.image-list .ui.medium.image {
+  padding: 4px;
+}
+
+.pagenation {
+  width: fit-content;
+  margin: 0 auto;
+  padding: 24px 0;
+}
+
+.pagenation span {
+  margin: 0 16px;
+}
